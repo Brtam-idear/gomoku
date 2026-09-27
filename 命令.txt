@@ -1,0 +1,2 @@
+编译：-finput-charset=UTF-8 -fexec-charset=GBK
+连接器：-lgdiplus -lwinmm -lole32 -loleaut32 -lgdi32 -luser32 -mwindows -municode -static-libgcc
